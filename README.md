@@ -1,3 +1,5 @@
-# Spider-code
-Đây là ứng dụng có thể giúp các bạn theo dõi máy tính cấu hình máy và các nút bấm trên bàn phím tác vụ trên máy tính
-tôi xin chối bỏ mọi trách nhiệm nếu bạn sử dụng nó vào việc vi phạm pháp luật
+# Virus theo dõi
+Ứng dụng hoạt động hầm
+Được sử dụng trong việc theo dõi máy tính cá nhân của người khác 
+Được built bởi nhiều cá nhân và được rebuilt bởi phtrlz
+Vui lòng không sử dụng trong hành động phạm pháp
